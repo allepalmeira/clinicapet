@@ -1,0 +1,3 @@
+https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
