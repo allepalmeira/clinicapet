@@ -1,3 +1,5 @@
+<?php require_once("envio-email.php") ?>
+
 <footer class="rodape wow fadeInUp" id="rodape">
 		<article class="rodapeLinhaUm">
 			<article>
@@ -42,7 +44,7 @@
 				
 
 				<article>
-					<form action="enviar.php" method="post">
+					<form action="#" method="post">
 						<div>
 							<input name="nome" type="text" placeholder="Digite seu nome:">
 						</div>
